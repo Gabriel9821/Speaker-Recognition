@@ -1,0 +1,3 @@
+pentru testarea algoritmului se va rula fisierul test.py.
+Dataseturile folosite sunt in fisierul dataset si sunt numerotate de la 2 la 6 
+deoarece datasetul 1 este cel din fisierul cu programul
